@@ -172,7 +172,7 @@ export const scales = {
   borderTopLeftRadius: 'radii',
   borderBottomRightRadius: 'radii',
   borderBottomLeftRadius: 'radii',
-  borderBottomEndRadius:'radii',
+  borderBottomEndRadius: 'radii',
   borderTopWidth: 'borderWidths',
   borderTopColor: 'colors',
   borderTopStyle: 'borderStyles',
